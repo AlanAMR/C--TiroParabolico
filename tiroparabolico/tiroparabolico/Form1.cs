@@ -83,7 +83,8 @@ namespace tiroparabolico
                 "\n"+
                 "Autor: Alan Andre Morales Renteria\n"+
                 "Fecha: 15 de marzo del 2019\n"+
-                "\n"+
+                "Puedes descargar el reporte y el codigo fuente de:\n"+
+                "\n https://github.com/AlanAMR/C--TiroParabolico \n\n" +
                 "Centro Universitario de Ciencia Exactas e Ingenierias"
                 );
         }
